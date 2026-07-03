@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "331914497517",
+    "project_id": "gita-jyoti-e3a1b",
+    "storage_bucket": "gita-jyoti-e3a1b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331914497517:android:038cfb67c742e951942be4",
+        "android_client_info": {
+          "package_name": "com.skmilon.gitajyoti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331914497517-9imop2ktjg4tu3fe4a7thvveufsqia2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8NnH5-4SoLWJ7QJZESdTPH9Ljd1wKFDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331914497517-9imop2ktjg4tu3fe4a7thvveufsqia2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
