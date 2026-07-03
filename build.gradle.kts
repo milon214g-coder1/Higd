@@ -18,6 +18,14 @@ jobs:
           distribution: 'temurin'
           java-version: '17'
 
+      - name: Verify files present
+        run: ls -la
+
+      - name: Setup Gradle
+        uses: gradle/actions/setup-gradle@v4
+        with:
+          gradle-version: 8.7
+
       - name: Generate Gradle Wrapper
         run: gradle wrapper --gradle-version 8.7
 
